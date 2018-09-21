@@ -1,0 +1,27 @@
+_repo: Two-Mothers_53642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neihardt, John G.
+    alias: Neihardt, John Gneisenau
+    birthdate: 1881
+    deathdate: 1973
+    gutenberg_agent_id: '6935'
+    url: http://www.gutenberg.org/2009/agents/6935
+    wikipedia: http://en.wikipedia.org/wiki/John_Neihardt
+description: ''
+gutenberg_issued: '2016-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Eight hundred rubles -- Agrippina.
+title: Two Mothers
+url: http://www.gutenberg.org/ebooks/53642
